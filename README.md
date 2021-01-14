@@ -20,9 +20,9 @@ Address: J. Crayton Pruitt Family Department of Biomedical Engineering, 1275 Cen
 - [BMES'18] Skylar Stolte, Yao Xiao, Ruogu Fang: "Multi-Modality Brain Image Co-Registration", Biomedical Engineering Society Annual Meeting (BMES), Atlanta, Georgia, USA, Oct. 2018. (UF BME Student Travel Award)
 
 ## HONORS & AWARDS
-B.S. and M.E. graduation with honors (Summa cum laude)
-UF BME Department-funded Student Travel Award to attend the 2019 Biomedical Engineering Society Annual Meeting (BMES), Philadelphia, Pennsylvania, USA, Oct. 2019
-UF BME Department-funded Student Travel Award to attend the 2018 Biomedical Engineering Society Annual Meeting (BMES), Atlanta, Georgia, USA, Oct. 2018
+- B.S. and M.E. graduation with honors (Summa cum laude)
+- UF BME Department-funded Student Travel Award to attend the 2019 Biomedical Engineering Society Annual Meeting (BMES), Philadelphia, Pennsylvania, USA, Oct. 2019
+- UF BME Department-funded Student Travel Award to attend the 2018 Biomedical Engineering Society Annual Meeting (BMES), Atlanta, Georgia, USA, Oct. 2018
 
 ## TEACHING & MENTORING EXPERIENCES 
 - Student Mentor: SMILE Lab, University of Florida, 2018-Present
