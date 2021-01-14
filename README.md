@@ -19,11 +19,14 @@ Address: J. Crayton Pruitt Family Department of Biomedical Engineering, 1275 Cen
 - [BMES'19] Skylar Stolte, Kyle See, Daniel El Basha, and Ruogu Fang: "Retinal Disease Diagnosis Using Mobile Devices", Biomedical Engineering Society Annual Meeting (BMES), Philadelphia, PA, USA, Oct. 2019. (UF BME Student Travel Award)
 - [BMES'18] Skylar Stolte, Yao Xiao, Ruogu Fang: "Multi-Modality Brain Image Co-Registration", Biomedical Engineering Society Annual Meeting (BMES), Atlanta, Georgia, USA, Oct. 2018. (UF BME Student Travel Award)
 
-
+## HONORS & AWARDS
+B.S. and M.E. graduation with honors (Summa cum laude)
+UF BME Department-funded Student Travel Award to attend the 2019 Biomedical Engineering Society Annual Meeting (BMES), Philadelphia, Pennsylvania, USA, Oct. 2019
+UF BME Department-funded Student Travel Award to attend the 2018 Biomedical Engineering Society Annual Meeting (BMES), Atlanta, Georgia, USA, Oct. 2018
 
 ## TEACHING & MENTORING EXPERIENCES 
-Student Mentor: SMILE Lab, University of Florida, 2018-Present
-Teaching Assistant: Biosignals and Systems, Department of Biomedical Engineering, University of Florida, August 2019 - December 2019
+- Student Mentor: SMILE Lab, University of Florida, 2018-Present
+- Teaching Assistant: Biosignals and Systems, Department of Biomedical Engineering, University of Florida, August 2019 - December 2019
 
 ## ACADEMIC SERVICES & LEADERSHIP: 
 - Biomedical Engineering Society (BMES) active member, 2015 - 2019, executive board member, 2017 - 2019
